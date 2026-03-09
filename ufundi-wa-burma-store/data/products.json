@@ -1,0 +1,29 @@
+[
+{
+"name":"Chef Knife",
+"price":12,
+"type":"retail",
+"stock":20
+},
+
+{
+"name":"Cooking Pan",
+"price":15,
+"type":"retail",
+"stock":15
+},
+
+{
+"name":"50 Cooking Pots",
+"price":120,
+"type":"wholesale",
+"stock":6
+},
+
+{
+"name":"100 Spoon Box",
+"price":40,
+"type":"wholesale",
+"stock":10
+}
+]
